@@ -1,3 +1,5 @@
 [submodule "testsub"]
-	path = .
+	path = testsub
 	url = https://github.com/muspartner/testsub
+
+
